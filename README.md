@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobodie0raj&show_icons=true&locale=en&layout=compact" alt="nobodie0raj" /></p>
 
-## 😂 Support
+## 💜 Support
 
 <p align="left">
 <a href="https://www.paypal.me/rajnand/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
