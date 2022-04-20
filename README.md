@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajnand18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnand18" height="30" width="40" /></a>
-<a href="https://instagram.com/nobodie_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobodie_0" height="30" width="40" /></a>
+<a href="https://instagram.com/sun_ing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobodie_0" height="30" width="40" /></a>
 <a href="https://www.behance.net/rajnandbhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rajnandbhardwaj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/putonislive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="puton is live" height="30" width="40" /></a>
 </p>
@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobodie0raj&show_icons=true&locale=en&layout=compact" alt="nobodie0raj" /></p>
 
-## ❤ Support
+## 😂 Support
 
 <p align="left">
 <a href="https://www.paypal.me/rajnand/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
