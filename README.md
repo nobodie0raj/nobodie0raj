@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Raj Nand</h1>
 <h3 align="center">An Digital Enthusiast</h3>
+ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nobodie0raj&label=Profile%20views&color=0e75b6&style=flat" alt="nobodie0raj" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rajnand18" target="blank"><img src="https://img.shields.io/twitter/follow/rajnand18?logo=twitter&style=for-the-badge" alt="rajnand18" /></a> </p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31f7izvrdipszvnpzh47qz2sgsie)
 
 - 🔭 I’m currently working on [Automated Public Chat Controller](Mongo DB Databases)
 
-- 🌱 I’m currently learning **Python,C,C++,JavaScript,PHP**
+- 🌱 Languages I'm Learning **Python,C,C++,JavaScript,PHP**
 
-- 📦 I also learn [VFX softwares, Ui/Ux Design/ Game Engines](Software/ Web page Development)
+- 📦 Beside that, I learn [VFX softwares, Ui/Ux Design/ Game Engines](Software/ Web page Development)
 
 - 💬 Ask me **https://t.me/smilenthrive**
 
@@ -22,7 +21,7 @@
 <a href="https://twitter.com/rajnand18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnand18" height="30" width="40" /></a>
 <a href="https://instagram.com/nobodie_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobodie_0" height="30" width="40" /></a>
 <a href="https://www.behance.net/rajnandbhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rajnandbhardwaj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/puton is live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="puton is live" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/putonislive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="puton is live" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,7 +32,7 @@
 ## 🙏 Support
 
 <p align="left">
-<a href="https://www.paypal.me/rahuldkjain/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
+<a href="https://www.paypal.me/rajnand/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
 </a>
 <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator">
 <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
@@ -43,7 +42,7 @@
 <p align="left">
   <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for rahuldkjain' />
   </a>
-  <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+  <a href="https://www.buymeacoffee.com/RajNand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 </p>
 
 <hr>
