@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Raj Nand</h1>
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 <h3 align="center">An Digital Enthusiast</h3>
  
+<a href="mailto:oprajnand@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+  <a href="https://www.linkedin.com/rajnandbhardwaj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31f7izvrdipszvnpzh47qz2sgsie)
 
 - 🔭 I’m currently working on [Automated Public Chat Controller](Mongo DB Databases)
 
