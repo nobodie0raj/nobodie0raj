@@ -1,10 +1,10 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<h3 align="center">An Digital Enthusiast</h3>
- 
-<a href="mailto:oprajnand@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+<p align="left"><a href="mailto:oprajnand@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
 <a href="https://www.linkedin.com/rajnand-bhardwaj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
+<h3 align="center">An Digital Enthusiast</h3>
+ 
 
 - 🔭 I’m currently working on [Automated Public Chat Controller](Mongo DB Databases)
 
@@ -31,7 +31,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobodie0raj&show_icons=true&locale=en&layout=compact" alt="nobodie0raj" /></p>
 
-## 🙏 Support
+## ❤ Support
 
 <p align="left">
 <a href="https://www.paypal.me/rajnand/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
@@ -42,12 +42,11 @@
 </p>
 
 <p align="left">
-  <a href='https://ko-fi.com/A0A81XXSX' target='_blank'><img height='23' width="100" src='https://cdn.ko-fi.com/cdn/kofi3.png?v=2' alt='Buy Coffee for Raj' />
-  </a>
+
   <a href="https://www.buymeacoffee.com/RajNand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 </p>
 
 <hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ by Raj 🇮🇳 
 </p>
