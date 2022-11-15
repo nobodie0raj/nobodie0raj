@@ -1,26 +1,26 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<p align="left"><a href="mailto:oprajnand@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
+<p align="left"><a href="mailto:rajnand.bhardwaj@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
 <a href="https://www.linkedin.com/in/rajnand-bhardwaj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<h3 align="center">An Digital Enthusiast</h3>
+<h3 align="center">An Digital Enthusiast and Learner</h3>
  
 
 - 🔭 I’m currently working on [Automated Public Chat Controller](Mongo DB Databases)
 
-- 🌱 Languages I'm Learning **Python,C,C++,JavaScript,PHP**
+- 🌱 Languages I'm Learning **Python, C, C++, JavaScript, PHP**
 
 - 📦 Beside that, I learn [VFX softwares, Ui/Ux Design/ Game Engines](Software/ Web page Development)
 
 - 💬 Ask me **https://t.me/smilenthrive**
 
-- 📫 How to reach me **plutonsupport@gmail.com**
+- 📫 How to reach me **rajnand.bhardwaj@gmail.com**
 
 - ⚡ Fun fact **I work on GFX/VFX also**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajnand18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnand18" height="30" width="40" /></a>
+<a href="https://twitter.com/rajnand9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnand18" height="30" width="40" /></a>
 <a href="https://instagram.com/sun_ing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobodie_0" height="30" width="40" /></a>
 <a href="https://www.behance.net/rajnandbhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rajnandbhardwaj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/putonislive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="puton is live" height="30" width="40" /></a>
