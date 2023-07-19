@@ -6,7 +6,7 @@
 <h3 align="center">An Digital Enthusiast and Learner</h3>
  
 
-- 🔭 I’m currently working on [Automated Public Chat Controller](Mongo DB Databases)
+- 🔭 I’m currently working on SGPA CALCULATOR, Quiz Webtool, [Automated Public Chat Controller](Mongo DB Databases)
 
 - 🌱 Languages I'm Learning **Python, C, C++, JavaScript, PHP**
 
@@ -31,17 +31,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobodie0raj&show_icons=true&locale=en&layout=compact" alt="nobodie0raj" /></p>
 
-## 💜 Support
 
-<p align="left">
-<a href="https://www.paypal.me/rajnand/10"><img src="https://ionicabizau.github.io/badges/paypal.svg" alt="sponsor github profile readme generator"/>
-</a>
-<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frajnand18.github.io%2Fgithub-profile-readme-generator">
-<img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator"/>
-</a>
-</p>
-
-<p align="left">
 
   <a href="https://www.buymeacoffee.com/RajNand" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 </p>
