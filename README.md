@@ -1,32 +1,55 @@
 # <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-<p align="left"><a href="mailto:rajnand.bhardwaj@gmail.com"><img src = "https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>   
-<a href="https://www.linkedin.com/in/rajnand-bhardwaj"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
-<h3 align="center">An Digital Enthusiast and Learner</h3>
- 
-
-- 🔭 I’m currently working on SGPA CALCULATOR, Quiz Webtool, [Automated Public Chat Controller](Mongo DB Databases)
-
-- 🌱 Languages I'm Learning **Python, C, C++, JavaScript, PHP**
-
-- 📦 Beside that, I learn [VFX softwares, Ui/Ux Design/ Game Engines](Software/ Web page Development)
-
-- 💬 Ask me **https://t.me/smilenthrive**
-
-- 📫 How to reach me **rajnand.bhardwaj@gmail.com**
-
-- ⚡ Fun fact **I work on GFX/VFX also**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajnand9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnand18" height="30" width="40" /></a>
-<a href="https://instagram.com/sun_ing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobodie_0" height="30" width="40" /></a>
-<a href="https://www.behance.net/rajnandbhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rajnandbhardwaj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/putonislive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="puton is live" height="30" width="40" /></a>
+  <a href="mailto:rajnand.bhardwaj@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rajnand-bhardwaj">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Digital Enthusiast and Learner</h3>
+
+---
+
+### 🔭 Current Projects
+- **SGPA CALCULATOR**
+- **Quiz Webtool**
+- **[Automated Public Chat Controller](Mongo DB Databases)**
+
+### 🌱 Learning
+- **Languages:** Python, C, C++, JavaScript, PHP
+- **Skills:** VFX software, UI/UX Design, Game Engines
+
+### 💬 Ask Me About
+- **[Telegram](https://t.me/smilenthrive)**
+
+### 📫 Contact Me
+- **Email:** rajnand.bhardwaj@gmail.com
+
+### ⚡ Fun Fact
+- I also work on GFX/VFX
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/rajnand9" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnand18" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/sun_ing" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobodie_0" height="30" width="40" />
+  </a>
+  <a href="https://www.behance.net/rajnandbhardwaj" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rajnandbhardwaj" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/putonislive" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="puton is live" height="30" width="40" />
+  </a>
+</p>
+
+### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -71,10 +94,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nobodie0raj&show_icons=true&locale=en&layout=compact" alt="nobodie0raj" /></p>
 
+---
 
-
-
-<hr>
 <p align="center">
 Developed with ❤️ by Raj 🇮🇳 
 </p>
