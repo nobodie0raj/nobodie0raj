@@ -30,7 +30,7 @@
 - **Email:** rajnand.bhardwaj@gmail.com
 
 ### ⚡ Fun Fact
-- I also work on GFX/VFX
+- Unless you change your target to _blank, you won’t reach it.
 
 ---
 
