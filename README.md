@@ -14,12 +14,13 @@
 ---
 
 ### 🔭 Current Projects
+- **Coding Platform Website**
 - **SGPA CALCULATOR**
 - **Quiz Webtool**
 - **[Automated Public Chat Controller](Mongo DB Databases)**
 
 ### 🌱 Learning
-- **Languages:** Python, C, C++, JavaScript, PHP
+- **Languages:** Javascript, React JS, Node js, Tailwind CSS, Python, C, C++ & MongoDB
 - **Skills:** VFX software, UI/UX Design, Game Engines
 
 ### 💬 Ask Me About
