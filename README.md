@@ -35,20 +35,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/rajnand9" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnand18" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sun_ing" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nobodie_0" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/rajnandbhardwaj" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rajnandbhardwaj" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/putonislive" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="puton is live" height="30" width="40" />
-  </a>
-</p>
+
 
 ### 🛠️ Languages and Tools
 <p align="left">
